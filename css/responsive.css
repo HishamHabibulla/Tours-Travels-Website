@@ -1,0 +1,381 @@
+@media (max-width:575.98px){
+    
+
+    .navbar ul li{
+        text-align: center;
+        
+    }
+
+    .navbar .nav-link {
+	font-family: 'Raleway', sans-serif;
+	font-size: 16px;
+	font-weight: 900;
+	text-transform: uppercase;
+	line-height: 1.1em;
+	letter-spacing: 0px;
+	color: rgb(3, 44, 65);
+}
+
+#about-us-part h1 {
+	font-family: 'Raleway', sans-serif;
+	font-size: 29px;
+	
+}
+
+#activities-part .heading {
+	font-family: 'Raleway', sans-serif;
+	font-size: 29px;
+	font-weight: 600;
+	text-transform: capitalize;
+	color: rgb(176, 8, 8);
+	margin-top: -1px;
+	margin-bottom: 12px;
+}
+
+#flights-part {
+	margin-top: 30px;
+	margin-bottom: 37px;
+}
+
+#hotels-part .title {
+	font-family: 'Raleway', sans-serif;
+	font-size: 34px;
+	font-weight: 700;
+	text-transform: uppercase;
+	margin-bottom: 11px;
+	color: rgb(3, 44, 65);
+}
+
+#shuttles-part .description {
+	font-family: 'Raleway', sans-serif;
+	font-size: 20px;
+	font-weight: 700;
+	margin-bottom: 13px;
+	color: rgb(3, 44, 65);
+	margin-top: -34px;
+	padding: 0 4px;
+}
+
+#footer-part h4 {
+	font-family: 'Raleway', sans-serif;
+	font-size: 23px;
+	font-weight: 700;
+	margin-top: 34px;
+	margin-bottom: 14px;
+	color: rgb(3, 44, 65);
+}
+
+.nav-item:hover::before{
+    width: 0% !important;
+    background: transparent !important;
+}
+
+.nav-link::before {
+	position: absolute;
+	content: "";
+	bottom: 10px;
+	left: 0;
+	width: 0%;
+	height: 2px;
+	background: transparent !important;
+	transition: .6s;
+}
+
+    
+
+}
+
+@media (min-width: 576px) and (max-width:767.98px){
+    
+    
+
+    .navbar ul li{
+        text-align: center;
+    }
+
+    .navbar .nav-link {
+        font-family: 'Raleway', sans-serif;
+        font-size: 16px;
+        font-weight: 900;
+        text-transform: uppercase;
+        line-height: 1.1em;
+        letter-spacing: 0px;
+        color: rgb(3, 44, 65);
+    }
+
+    .nav-item:hover::before{
+        width: 0% !important;
+        background: transparent !important;
+    }
+    
+    .nav-link::before {
+        position: absolute;
+        content: "";
+        bottom: 10px;
+        left: 0;
+        width: 0%;
+        height: 2px;
+        background: transparent !important;
+        transition: .6s;
+    }
+
+    #flights-part {
+        margin-top: 30px;
+        margin-bottom: 25px;
+    }
+
+    #hotels-part .title {
+        font-family: 'Raleway', sans-serif;
+        font-size: 34px;
+        font-weight: 700;
+        text-transform: uppercase;
+        margin-bottom: 12px;
+        color: rgb(3, 44, 65);
+    }
+
+    #homestays-part .box:hover .overlay {
+        height: 18%;
+        opacity: 1;
+    }
+
+    #activities-part h4 {
+        font-family: 'Raleway', sans-serif;
+        font-size: 25px;
+        font-weight: 700;
+        text-transform: capitalize;
+        margin-top: 5px;
+        margin-bottom: 32px;
+        color: rgb(3, 44, 65);
+    }
+
+    #attractions-part .title {
+        font-family: 'Raleway', sans-serif;
+        font-size: 34px;
+        font-weight: 700;
+        text-transform: capitalize;
+        margin-bottom: 16px;
+        color: rgb(176, 8, 8);
+        margin-top: 4px;
+    }
+
+    #attractions-part h4 {
+        font-family: 'Raleway', sans-serif;
+        font-size: 24px;
+        font-weight: 700;
+        text-transform: capitalize;
+        margin-top: 10px;
+        margin-bottom: 30px;
+        color: rgb(3, 44, 65);
+        text-align: center;
+    }
+
+    #shuttles-part .title {
+        font-family: 'Raleway', sans-serif;
+        font-size: 34px;
+        font-weight: 700;
+        text-transform: capitalize;
+        margin-bottom: 14px;
+        color: rgb(176, 8, 8);
+        margin-top: -5px;
+    }
+
+    #shuttles-part .description {
+        font-family: 'Raleway', sans-serif;
+        font-size: 20px;
+        font-weight: 700;
+        margin-bottom: 10px;
+        color: rgb(3, 44, 65);
+        margin-top: 10px;
+        padding: 0px 27px;
+    }
+
+    #hotels-part .details {
+        padding: 8px;
+        border: 1px solid black;
+        margin-bottom: 19px;
+    }
+
+    
+}
+
+
+@media (min-width: 768px) and (max-width:991.98px){
+    
+    
+
+    .navbar ul li{
+        text-align: center;
+    }
+
+    .navbar .nav-link {
+        font-family: 'Raleway', sans-serif;
+        font-size: 16px;
+        font-weight: 900;
+        text-transform: uppercase;
+        line-height: 1.6em;
+        letter-spacing: 0px;
+        color: rgb(3, 44, 65);
+    }
+
+    .nav-item:hover::before{
+        width: 0% !important;
+        background: transparent !important;
+    }
+    
+    .nav-link::before {
+        position: absolute;
+        content: "";
+        bottom: 10px;
+        left: 0;
+        width: 0%;
+        height: 2px;
+        background: transparent !important;
+        transition: .6s;
+    }
+
+    #hotels-part .details {
+        padding: 8px;
+        border: 1px solid black;
+        margin-bottom: 20px;
+    }
+
+    #homestays-part .box:hover .overlay {
+        height: 14%;
+        opacity: 1;
+    }
+
+    #homestays-part .overlay h4 {
+        font-family: 'Raleway', sans-serif;
+        font-size: 19px;
+        font-weight: 600;
+        color: rgb(176, 8, 8);
+        margin-top: 20px;
+        text-align: center;
+        margin-bottom: 0px;
+    }
+
+    #homestays-part .overlay h5 {
+        font-family: 'Raleway', sans-serif;
+        font-size: 18px;
+        font-weight: 600;
+        color: rgb(3, 44, 65);
+        margin-top: 5px;
+        text-align: center;
+    }
+
+    #attractions-part .title {
+        font-family: 'Raleway', sans-serif;
+        font-size: 34px;
+        font-weight: 700;
+        text-transform: capitalize;
+        margin-bottom: 18px;
+        color: rgb(176, 8, 8);
+        margin-top: -14px;
+    }
+
+    #attractions-part h4 {
+        font-family: 'Raleway', sans-serif;
+        font-size: 28px;
+        font-weight: 700;
+        text-transform: capitalize;
+        margin-top: 12px;
+        margin-bottom: 30px;
+        color: rgb(3, 44, 65);
+        text-align: center;
+    }
+
+    #shuttles-part .mt {
+        margin-top: 21px;
+    }
+
+
+    #footer-part h4 {
+        font-family: 'Raleway', sans-serif;
+        font-size: 23px;
+        font-weight: 700;
+        margin-top: 32px;
+        margin-bottom: 11px;
+        color: rgb(3, 44, 65);
+    }
+
+    #footer-part .new {
+        margin-bottom: 17px;
+    }
+
+    #homestays-part .box:hover .overlay {
+        height: 26%;
+        opacity: 1;
+    }
+
+
+    #homestays-part .box {
+        position: relative;
+        margin-bottom: 23px;
+    }
+
+    #activities-part .heading {
+        font-family: 'Raleway', sans-serif;
+        font-size: 34px;
+        font-weight: 600;
+        text-transform: capitalize;
+        color: rgb(176, 8, 8);
+        margin-top: 1px;
+        margin-bottom: 25px;
+    }
+
+
+    #activities-part h4 {
+        font-family: 'Raleway', sans-serif;
+        font-size: 29px;
+        font-weight: 700;
+        text-transform: capitalize;
+        margin-top: 6px;
+        margin-bottom: 30px;
+        color: rgb(3, 44, 65);
+    }
+
+   
+
+    
+
+    
+
+}
+
+@media (min-width: 992px) and (max-width:1199.98px){
+    
+    .zero{
+        font-size: 0 !important;
+    }
+
+
+    #activities-part .heading {
+        font-family: 'Raleway', sans-serif;
+        font-size: 34px;
+        font-weight: 600;
+        text-transform: capitalize;
+        color: rgb(176, 8, 8);
+        margin-top: 19px;
+        margin-bottom: 25px;
+    }
+
+    #footer-part h4 {
+        font-family: 'Raleway', sans-serif;
+        font-size: 19px;
+        font-weight: 700;
+        margin-top: 34px;
+        margin-bottom: 37px;
+        color: rgb(3, 44, 65);
+    }
+
+
+
+}
+
+@media (min-width: 1200px) and (max-width:1399.98px){
+    
+
+    
+
+}
+
