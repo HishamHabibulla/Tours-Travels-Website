@@ -122,11 +122,11 @@ a,a:hover{
                             about us part start
    ======================================================================== */
 
-#about-us-part{
-    padding: 230px 0;
-    background: url(../images/2nd-pic.jpg) no-repeat center;
-    background-size: cover;
-    
+#about-us-part {
+	padding-top: 280px;
+	padding-bottom: 659px;
+	background: url(../images/2nd-pic.jpg) no-repeat center;
+	background-size: cover;
 }
 
 #about-us-part h1{
@@ -138,7 +138,7 @@ a,a:hover{
 	letter-spacing: 0px; */
     color: #fff;
     margin-bottom: 50px !important;
-    margin-top: 30px;
+    margin-top: 100px;
 	
 }
 
